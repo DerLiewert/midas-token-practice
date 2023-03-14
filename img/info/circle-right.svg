@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1_835" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+<circle cx="256" cy="256" r="254.5" stroke="url(#paint0_linear_1_835)" stroke-width="3"/>
+</mask>
+<g mask="url(#mask0_1_835)">
+<circle cx="256" cy="256" r="254.5" stroke="url(#paint1_radial_1_835)" stroke-width="3"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_835" x1="512" y1="256" x2="-1.40608e-06" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0.347024" stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<radialGradient id="paint1_radial_1_835" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(148.4 140.4) rotate(73.8512) scale(386.865)">
+<stop stop-color="#6743F7"/>
+<stop offset="1" stop-color="#02E4D6"/>
+</radialGradient>
+</defs>
+</svg>
